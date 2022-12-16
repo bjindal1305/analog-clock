@@ -16,5 +16,5 @@ Link: https://weatherx4.000webhostapp.com/
 
 
 ## **5. Screenshot of the Interface**
-![image](https://user-images.githubusercontent.com/67909711/208133387-dfd84ffb-976e-4085-bf86-7b9813b4e94c.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/67909711/208133507-8d426ec6-308d-4142-8aed-e816240db3be.png)
 
