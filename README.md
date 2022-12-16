@@ -3,7 +3,7 @@
 
 
 ## **1. Methodology**
-
+Application tries to simulate Analog clock by processing the time and activating the pixels of various hands and rotating it using simple arithmatic behaviour.
 
 ## **2. Description**
 Application automatically picks your system time and process this information to display time on a Analog Clock.
