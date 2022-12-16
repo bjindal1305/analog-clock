@@ -6,10 +6,10 @@
 
 
 ## **2. Description**
-
+Application automatically picks your system time and process this information to display time on a Analog Clock.
 
 ## **3. Input / Output**
-
+N/A
 
 ## **4. Live link**
 Link: https://weatherx4.000webhostapp.com/
